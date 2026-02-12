@@ -10,5 +10,5 @@ int main()
         cout << "Guess the magic number: \n";
         cin >> guess;
     }
-    cout << "66666666666777777777777776️⃣7️⃣7️⃣7️⃣7️⃣";
+    cout << "6666666666677777777777777";
 }
