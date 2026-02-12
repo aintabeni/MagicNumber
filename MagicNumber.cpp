@@ -24,6 +24,11 @@ int main()
             cout << "Invalid input. Please enter a number.\n";
             continue;
         }
+        guess == magic 
+            ? cout << "You're right, you got the magic number.\n" 
+            : guess > magic 
+            ? cout << "That's a bit too high\n"
+            : cout << "That's a bit too low\n";
     } while (guess != magic);
     cout << "6666666666677777777777777";
 }
